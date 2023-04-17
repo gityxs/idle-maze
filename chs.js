@@ -112,7 +112,7 @@ var cnItems = {
     "Foraging": "觅食",
     "Looting": "掠夺",
     "Digging": "挖掘",
-    "": "",
+    "Gamedata": "游戏数据",
     "": "",
     "": "",
     "": "",
